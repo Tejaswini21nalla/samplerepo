@@ -2,3 +2,4 @@
 hello this is a sample check to push the code to bitbucket and githubb
 this s change from github
 this change is from bitbucket
+to check git status command how to use
